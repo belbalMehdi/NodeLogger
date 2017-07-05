@@ -1,4 +1,4 @@
 # NodeLogger
 NodeJS light weight easy to use and well designed logger.
 
-[Alt text](relative/path/to/test.png?raw=true "Title")
+[Alt text](https://github.com/belbalMehdi/NodeLogger/blob/master/test.PNG?raw=true "Title")
