@@ -1,4 +1,4 @@
 # NodeLogger
 NodeJS light weight easy to use and well designed logger.
 
-    <img src="test.png" alt="docs">
+[Alt text](relative/path/to/test.jpg?raw=true "Title")
